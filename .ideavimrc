@@ -42,3 +42,5 @@ nnoremap j h
 nnoremap k j
 nnoremap l k
 nnoremap ; l
+nnoremap <c-t> :action ActivateTerminalToolWindow<CR>
+nnoremap <leader>t :action Terminal.OpenInTerminal<CR>
